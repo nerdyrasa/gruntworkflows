@@ -1,0 +1,21 @@
+{
+  "name": "gruntworkflows",
+  "description": "Project for Grunt Workflows",
+  "authors": [
+    "RB Isaacson"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nerdyrasa/gruntworkflows",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "#3.3.4",
+    "mustache.js": "mustache#^2.3.0"
+  }
+}
