@@ -24,8 +24,7 @@ Developing a workflow helps with developing, testing, and deploying web applicat
     - [Why choose npm scripts article](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.ythe65nf0)  
     
     
-## Issues
-
-I ran into one issue while putting together this workflow and the problem and fix is documented in the following article:
+## Etcetera
 
   * [Bower Broke Wiredep, and how to fix it….](http://jonathanfmills.com/bower-broke-wiredep-and-how-to-fix-it/)
+  * [Deploying to surge](http://surge.sh/)
